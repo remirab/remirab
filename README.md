@@ -4,6 +4,7 @@ Machine Learning Engineer | Data Scientist from Isfahan, Iran
 - 🌱 I’m currently learning: Natural Language Processing
 - ⚡ Fun fact: Never let your computer know that you are in a hurry! Computers can smell fear. They slowdown if they know that you are running out of time!
 - 💬 Love Science and Music
+- ⚡ Fun fact: Astronauts use Linux because you can not open Windows in space!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=remirab&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark" />
 </p>

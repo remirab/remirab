@@ -2,7 +2,7 @@
 Machine Learning Engineer | Data Scientist from Isfahan, Iran
 - 🔭 Current Position: Machine Learning Engineer at <a href="https://nanos.ai/">Nanocorp AG</a>
 - 🌱 I’m currently learning: Natural Language Processing
-- ⚡ Fun fact: Data Science is powered by Statistics, but their different!
+- ⚡ Fun fact: Data Science is powered by Statistics, but they are different!
 - 💬 Love Science and Music
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=remirab&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark" />

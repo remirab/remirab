@@ -1,6 +1,6 @@
 ### Hi there 👋
 Software Engineer | Machine Learning Engineer | Data Scientist from Isfahan, Iran
-- 🔭 Current Position: Machine Learning Engineer at <a href="https://nanos.ai/">Nanocorp AG</a>
+- 🔭 Current Position: Consulting Software Engineer at <a href="https://www.segulatechnologies.com/en/">Segula Technologies AB</a>
 - 🌱 I’m currently learning: Natural Language Processing
 - ⚡ Fun fact: Never let your computer know that you are in a hurry! Computers can smell fear. They slowdown if they know that you are running out of time!
 - 💬 Love Science and Music
